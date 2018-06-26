@@ -1,2 +1,2 @@
 # Py4Network
-Just a probe in Python with https://legacy.gitbook.com/book/natenka/pyneng
+Just a probe in development with Python and https://legacy.gitbook.com/book/natenka/pyneng
